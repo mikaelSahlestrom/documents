@@ -1,0 +1,18 @@
+{
+  "title": "Black Mesa",
+  "ingress": "Mad scientist conquers the world",
+  "review": {
+    "story": {
+      "beginning": "I can't help the nostalgia washing over myself when i play this game. Every gamer out there have a relation to Half life and for me, it's the 90:s. I never finished the original (Was never really a fps computer kid) but it was still a huge presence in you life. Just look at the behemoths it spawned with its modding community! But half life was not only praised for it's innovation in its community, it was loved for it's engaging game play and story execution. And to be fair, it was one of (if not THE one) the most influential game of the 90:s propelling the FPS genre to what we see today. \n So, how does this game fair today? Is its game play still engaging, is the story spectacular and does it deserve the praise it still have today? These are the question I wanted to answer today.\n *Full disclosure, I was indecisive regarding which version I was going to experience. In the end I picked the black mesa fan-based project since most gamers seem to deem this as the better version.\n Black mesa starts at slog. Riding along this slow cable cart experiencing the vast reaches of the science facility. Going deeper, and deeper. Security check after security check. Some chit chat from a scientist there, and then another one here. I kinda understand what half life is trying to accomplish. an early world building in its introduction. You are Heisenberg... I mean Gordon Freeman. You are experiencing a normal day at the science facility where you work. You're a MIT PhD whose sole purpose is to push karts. Yeah, that's right. You're suiting up in an weird, anti-radiation super suit (which by the way, makes you sprint super fast) in order to shove different karts into a hyper beam. To be honest it's not that far off the truth (working as a test engineer for several years kinda undermines the respect and awe i once had for the science community). The NPC even make some comments around the subject in the game, which is hilarious. Any way, long story short, the experiment fails, chaos emerges and your goal is to get the hell out of this mess.",
+      "middle": "Game happens",
+      "end": "And thus he saves the universe"
+    },
+    "gameplay":"He shoots"
+  },
+  "data": {
+    "playtime": 12,
+    "replayability": "low",
+    "category": "FPS",
+    "recommend": "kinda"
+  }
+}
